@@ -4,6 +4,6 @@
 *dontcommit*
 *__pycache__*
 
-data
+data/
 
 .idea
